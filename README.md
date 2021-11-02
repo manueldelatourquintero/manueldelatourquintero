@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Plugin projects for editors such as Vim and VSCode, I help people by giving classes in programming languages ​​and I check the SEO of web pages and applications
 - 📫 How to reach me you can contact me through my email: "manuel.gerardo.delatour@gmail.com" or my phone number "+57 3054565857"
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/>
+<img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/>
 
 ```javascript
 const manuelDelatour = {
