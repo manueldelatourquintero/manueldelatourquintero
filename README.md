@@ -41,7 +41,7 @@ const manuelDelatour = {
 
  <details>
    <summary>
-       <a href="github.com/manueldelatourquintero"><img src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
+       <a href="github.com/manueldelatourquintero"><img width="100" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
    </summary>
  </details>  
 
