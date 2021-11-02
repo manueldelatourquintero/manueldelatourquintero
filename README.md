@@ -14,7 +14,7 @@ const manuelDelatour = {
   editors: [Vim, Sublime Text 4, VSCode, Atom]
 }
 ```
-<hr><hr>
+<hr>
 
 <br/><br/>
 
