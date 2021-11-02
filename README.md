@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h1> I'm Manuel Delatour Quintero</h1>
 
 - 👀 I’m interested in programming, technology, robotics and machine learning.
 - 🌱 I’m currently learning to program in Ruby and Ruby and Rails to be able to use them in my projects and expand my experience as a Full-Stack developer and especially on the Backend side.
