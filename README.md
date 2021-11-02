@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @manueldelatourquintero
+### Hi there 👋<h2> I'm Shivam</h2>
+
 - 👀 I’m interested in programming, technology, robotics and machine learning.
 - 🌱 I’m currently learning to program in Ruby and Ruby and Rails to be able to use them in my projects and expand my experience as a Full-Stack developer and especially on the Backend side.
 - 💞️ I’m looking to collaborate on Plugin projects for editors such as Vim and VSCode, I help people by giving classes in programming languages ​​and I check the SEO of web pages and applications
