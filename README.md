@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ### Hi there 👋<h1> I'm Manuel Delatour Quintero</h1>
 
 - 👀 I’m interested in programming, technology, robotics and machine learning.
@@ -11,10 +13,15 @@
 const manuelDelatour = {
   code: [Javascript, Typescript, HTML, CSS, C++, Python, PHP, Java],
   tools: [React, Node.js, Express, Styled-Components, Docker],
-  editors: [Vim, Sublime Text 4, VSCode, Atom]
+  editors: [Vim, Sublime Text 4, VSCode, Atom],
+  skills: [Guitar, Programming, Footballer in formation],
+  favoriteMusic: [Metallica, Oasis, MCR, S.o] 
 }
 ```
-<hr>
+
+<summary>
+  <a href="https://github.com/manueldelatourquintero"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+</summary>
 
 <br/><br/>
 
@@ -30,6 +37,7 @@ const manuelDelatour = {
 
 <br><br>
 
+<h2>Contact Me 🤙</h2>
 
 <!---
 manueldelatourquintero/manueldelatourquintero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
