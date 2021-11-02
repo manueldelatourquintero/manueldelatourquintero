@@ -7,16 +7,15 @@
 
 ```javascript
 const manuelDelatour = {
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, PHP, Java],
+  tools: [React, Node.js, Express, Styled-Components, Docker],
 }
 ```
 
 
 <br/><br/>
 
-[![Manuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=manueldelatourquintero&show_icons=true)](https://github.com/)
+[![Manuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=manueldelatourquintero&show_icons=true)](https://github.com/manueldelatourquintero)
 
 <br/>
 
