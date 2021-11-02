@@ -13,6 +13,21 @@ const manuelDelatour = {
 }
 ```
 
+
+<br/><br/>
+
+[![Manuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=manueldelatourquintero&show_icons=true)](https://github.com/)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldelatourquintero&show_icons=true)
+
+<br><br>
+
 <!---
 manueldelatourquintero/manueldelatourquintero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
