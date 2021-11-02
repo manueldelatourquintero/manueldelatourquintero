@@ -18,7 +18,7 @@ const manuelDelatour = {
   favoriteMusic: [Metallica, Oasis, MCR, S.o] 
 }
 ```
-
+<details>
 <summary>
   <a href="https://github.com/manueldelatourquintero"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
