@@ -15,7 +15,7 @@ const manuelDelatour = {
   tools: [React, Node.js, Express, Styled-Components, Docker],
   editors: [Vim, Sublime Text 4, VSCode, Atom],
   skills: [Guitar, Programming, Footballer in formation],
-  favoriteMusic: [Metallica, Oasis, MCR, S.o] 
+  favoriteMusic: [Metallica, Oasis, MCR, S.O.A.D] 
 }
 ```
 <details>
@@ -41,8 +41,11 @@ const manuelDelatour = {
 
  <details>
    <summary>
-       <a href="github.com/manueldelatourquintero"><img width="100" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
+       <a href="github.com/manueldelatourquintero"><img width="50" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
    </summary>
+   
+   
+   
  </details>  
 
 </details   
