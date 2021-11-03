@@ -38,7 +38,7 @@ const manuelDelatour = {
 <br><br>
   <center>
     <h2>Languajes and tools</h2> 
-    ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=black&style=flat)
+    ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&logoWidth=30)
   </center>
   
 <h2>Contact Me 🤙</h2>
