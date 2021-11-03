@@ -38,7 +38,7 @@ const manuelDelatour = {
 <br><br>
   <center>
     <h2>Languajes and tools</h2> 
-    ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&logoWidth=30)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/manueldelatourquintero)]
   </center>
   
 <h2>Contact Me 🤙</h2>
