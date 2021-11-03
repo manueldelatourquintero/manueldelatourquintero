@@ -36,7 +36,11 @@ const manuelDelatour = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldelatourquintero&show_icons=true)
 
 <br><br>
-
+  <center>
+    <h2>Languajes and tools</h2> 
+    ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=black&style=flat)
+  </center>
+  
 <h2>Contact Me 🤙</h2>
 
  <details>
