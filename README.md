@@ -12,10 +12,10 @@
 ```javascript
 const manuelDelatour = {
   code: [Javascript, Typescript, HTML, CSS, C++, Python, PHP, Java],
-  tools: [React, Node.js, Express, Styled-Components, Docker],
+  tools: [React, Node.js, Express, Docker],
   editors: [Vim, Sublime Text 4, VSCode, Atom],
-  skills: [Guitar, Programming, Footballer in formation],
-  favoriteMusic: [Metallica, Oasis, MCR, S.O.A.D] 
+  skills: [Guitar, Programming, Footballerinformation],
+  favoriteMusic: [Metallica, Oasis, MCR, SOAD] 
 }
 ```
 <details>
