@@ -36,10 +36,10 @@ const manuelDelatour = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldelatourquintero&show_icons=true)
 
 <br><br>
-  <center>
-    <h2>Languajes and tools</h2> 
-    <a href="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/manueldelatourquintero">
-  </center>
+
+<h2>Languajes and tools</h2> 
+![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/manueldelatourquintero)
+
   
 <h2>Contact Me 🤙</h2>
 
