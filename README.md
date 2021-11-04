@@ -11,9 +11,9 @@
 
 ```javascript
 const manuelDelatour = {
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, PHP, Java],
+  code: [Javascript, Typescript, html, css, CPP, Python, php, Java],
   tools: [React, Node.js, Express, Docker],
-  editors: [Vim, Sublime Text 4, VSCode, Atom],
+  editors: [Vim, Sublime Text4, VSCode, Atom],
   skills: [Guitar, Programming, Footballerinformation],
   favoriteMusic: [Metallica, Oasis, MCR, SOAD] 
 }
@@ -47,8 +47,6 @@ const manuelDelatour = {
 
  <details>
    <summary>
-     <h2>Contact Me 🤙</h2>
-
      <a href="github.com/manueldelatourquintero"><img width="50" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
    </summary> 
    
