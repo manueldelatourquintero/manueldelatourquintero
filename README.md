@@ -49,13 +49,16 @@ const manuelDelatour = {
  <details>
    <summary>
        <a href="github.com/manueldelatourquintero"><img width="50" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
-   </summary>
+   </summary> 
    
-   
+   <h3>My email is: "manuel.gerardo.delatour@gmail.com"</h3>
+   <a href="mailto:manuel.gerardo.delatour@gmail.com">
+       <img width="200" src="https://img.shields.io/badge/-MyEmail-black?style=flat&logo=gmail&">
+   </a>
    
  </details>  
 
-</details   
+</details>
 <!---
 manueldelatourquintero/manueldelatourquintero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
