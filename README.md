@@ -44,11 +44,12 @@ const manuelDelatour = {
   
 
   
-<h2>Contact Me 🤙</h2>
 
  <details>
    <summary>
-       <a href="github.com/manueldelatourquintero"><img width="50" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
+     <h2>Contact Me 🤙</h2>
+
+     <a href="github.com/manueldelatourquintero"><img width="50" src="https://media.giphy.com/media/KpOqvmCFdNMhF0pQb7/giphy.gif"/></a>
    </summary> 
    
    <h3>My email is: "manuel.gerardo.delatour@gmail.com"</h3>
