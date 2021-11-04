@@ -30,6 +30,7 @@ const manuelDelatour = {
 <br/>
  
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<br/>  
 
 <br/>
 
@@ -43,7 +44,8 @@ const manuelDelatour = {
 <img width="200" align="center" src="https://img.shields.io/badge/-ExpressJS-black?logo=express&logoColor=white&link=github.com/manueldelatourquintero">
   
 
-  
+ <br>
+ <br>
 
  <details>
    <summary>
