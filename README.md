@@ -102,6 +102,7 @@ const manuelDelatour = {
     <br>
   </ul>
   
+  <h3>Control Version</h3>
   <ul>
     <li><img width="200" align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></li>
     <br>
@@ -133,8 +134,6 @@ const manuelDelatour = {
   
   <h3>Machine Learning and I.A</h3>  
   <ul>
-    <li><img width="200" align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></li>
-    <br>
     <li><img width="200" align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></li>
     <br>
     <li><img width="200" align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></li>
