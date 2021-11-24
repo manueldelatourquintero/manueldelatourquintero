@@ -63,7 +63,7 @@ const manuelDelatour = {
     <li><img width="200" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></li>
     <br>
   </ul>
-    
+  
   <h3>Frameworks and Libraries</h3>
   <ul>
     <li><img width="200" align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
