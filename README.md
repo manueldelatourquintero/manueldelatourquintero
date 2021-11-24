@@ -137,7 +137,7 @@ const manuelDelatour = {
     <br>
     <li><img width="200" align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></li>
     <br>
-    <li><img width="200" align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></li>
+    <li><img width="200" align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></li>
   </ul>
   
 
